@@ -27,7 +27,7 @@ This project analyzes an employee engagement survey conducted by Pierce County W
 - Power BI for visualization  
 
 ## Dashboard Screenshot
-![Employee Survey Dashboard](Employee_Survey_Dashboard.png)
+
 
 ## Conclusion
 This analysis provides actionable insights for managers and HR to improve employee satisfaction and engagement.
