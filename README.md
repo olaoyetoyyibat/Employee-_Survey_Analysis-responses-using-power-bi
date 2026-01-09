@@ -29,6 +29,7 @@ This project analyzes an employee engagement survey conducted by Pierce County W
 ## Dashboard Screenshot
 
 
+
 ## Conclusion
 This analysis provides actionable insights for managers and HR to improve employee satisfaction and engagement.
 
