@@ -27,7 +27,7 @@ This project analyzes an employee engagement survey conducted by Pierce County W
 - Power BI for visualization  
 
 ## Dashboard Screenshot
-1767968849206.jpg
+https://github.com/olaoyetoyyibat/Employee-_Survey_Analysis-responses-using-power-bi/blob/main/1767968849206.jpg
 
 
 
